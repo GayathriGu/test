@@ -1,0 +1,12 @@
+{  
+"portalnames":[
+{
+"id": 1,"title": "HRMS Human Resource Management","url": "https://github.com/GayathriGu/gitrepo/blob/master/humanresouce.png"},
+{
+"id": 2,"title": "LMS Leave Management","url": "https://github.com/GayathriGu/gitrepo/blob/master/leave.png"},
+{
+"id": 3,"title": "PMS Performance Management","url": "https://github.com/GayathriGu/gitrepo/blob/master/performance.png"},
+{
+"id": 4,"title": "TMS TimeSheet Management","url": "https://github.com/GayathriGu/gitrepo/blob/master/timesheet.png"}
+]
+}
